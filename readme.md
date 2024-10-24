@@ -22,3 +22,4 @@ Select your environment for your kernel.
 
 
 The order in which you should read this unit is:
+1. unit-7-intro-to-neural-networks
